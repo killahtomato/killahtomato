@@ -6,7 +6,7 @@ I make tools that solve problems. They might just be my problems... they are sol
 
 **By day:** POS programmer and technical support specialist. I configure systems, build automation, and help merchants keep their operations running.
 
-**By nature:** A tinkerer who builds things that make life easier — terminal tools, desktop apps, browser automation, and whatever else the problem calls with.
+**By nature:** A tinkerer who builds things that make life easier — terminal tools, desktop apps, browser automation, and whatever else the problem calls for.
 
 ## What I Know
 
