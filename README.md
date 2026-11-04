@@ -19,10 +19,12 @@ I make tools that solve problems. They might just be my problems... they are sol
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [tomato-vine](https://github.com/killahtomato/tomato-vine) | Modern IRC TUI client with SASL auth, IRCv3 support, auto-reconnect, and a Textual-based interface | Python · Textual |
+| [tomato-vine](https://github.com/killahtomato/tomato-vine) | Modern IRC TUI client with SASL auth, IRCv3 support, and a Textual-based interface | Python · Textual |
 | [tomato-watch-party](https://github.com/killahtomato/tomato-watch-party) | Synchronized movie streaming platform with real-time audience chat and throw mechanics | JavaScript · TypeScript |
 | [tomato-gvoice](https://github.com/killahtomato/tomato-gvoice) | Terminal CLI for Google Voice SMS — send, read, search, and get desktop notifications | Python · Playwright |
 | [ADA](https://github.com/killahtomato/ADA) | Fully local voice-activated AI assistant with tools, alarms, memory, and custom wake word | Python · Ollama |
+| [zzz-codes](https://github.com/killahtomato/zzz-codes) | Multi-source redemption code finder for Zenless Zone Zero with a Swing GUI | Java |
+| [tomato-media-ripper](https://github.com/killahtomato/tomato-media-ripper) | Desktop GUI for downloading video and audio from social platforms via yt-dlp | Java |
 
 ## Where to Find Me
 
