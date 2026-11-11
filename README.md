@@ -29,7 +29,7 @@ I make tools that solve problems. They might just be my problems... they are sol
 ## Where to Find Me
 
 - Portfolio: killahtomato.github.io/Portfolio
-- Email: zimmermantg@gmail.com
+- Email: killahtomato@gmail.com
 - Location: Harrisburg, PA
 
 ## Currently
